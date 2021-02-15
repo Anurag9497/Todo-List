@@ -1,0 +1,23 @@
+.list
+{
+    font-size: 30px;
+    margin-right: 30px;
+}
+.editTask
+{
+    width: 180px;
+    margin-left: 5px;
+}
+.saveTask
+{
+    color: #27aedb;
+    text-align: center;
+    width: 50px;
+    margin-left: 5px;
+}
+.edit, .delete
+{
+    color: #27aedb;
+    text-align: center;
+    width: 50px;
+}
